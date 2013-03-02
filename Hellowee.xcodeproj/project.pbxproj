@@ -27,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8474D24B16E20BFD004C1783 /* numbersProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = numbersProtocol.h; sourceTree = "<group>"; };
 		A2A3449D1696725E00D5D191 /* Hellowee */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hellowee; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2A344A11696725E00D5D191 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A2A344A41696725F00D5D191 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 			children = (
 				A2A344A41696725F00D5D191 /* main.m */,
 				A2A344AF169672BA00D5D191 /* Fraction.h */,
+				8474D24B16E20BFD004C1783 /* numbersProtocol.h */,
 				A2A344B0169672BA00D5D191 /* Fraction.m */,
 				A2A344A81696725F00D5D191 /* Hellowee.1 */,
 				A2A344A61696725F00D5D191 /* Supporting Files */,
